@@ -1,2 +1,2 @@
-print('t')
-print('tere')
+tue = 1
+print(tue)
